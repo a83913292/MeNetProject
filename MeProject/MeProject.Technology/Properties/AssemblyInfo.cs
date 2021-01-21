@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // 有关程序集的一般信息由以下
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("MeProject.Tool")]
+[assembly: AssemblyTitle("MeProject.Technology")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("MeProject.Tool")]
+[assembly: AssemblyProduct("MeProject.Technology")]
 [assembly: AssemblyCopyright("Copyright ©  2021")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // 如果此项目向 COM 公开，则下列 GUID 用于类型库的 ID
-[assembly: Guid("bb3db62a-c575-40bd-91a6-0c14f69f9b88")]
+[assembly: Guid("84410ce2-bf91-4696-83a2-11ba47c7c6e1")]
 
 // 程序集的版本信息由下列四个值组成: 
 //
